@@ -1,5 +1,7 @@
 {
   "name": "ironFire",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
